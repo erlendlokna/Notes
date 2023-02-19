@@ -1,0 +1,3 @@
+- [ ] Neural Network in c++
+- [ ] Bayesian Neural Network in C++
+- [ ] 

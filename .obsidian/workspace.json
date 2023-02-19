@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9533633721684781",
+            "id": "1a402fdbd198738e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Spring 2023/Finance for engineers 2023-spring/Lecture 2 - Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "910b0e070c0aef88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2023/Finance for engineers 2023-spring/Lecture 2 - Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3caac4f4824fe23a",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Spring 2023/Finance for engineers 2023-spring/Lecture 2 - Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Spring 2023/Finance for engineers 2023-spring/Lecture 2 - Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Spring 2023/Finance for engineers 2023-spring/Lecture 2 - Fundamentals.md"
               }
             }
           }
@@ -146,6 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9533633721684781",
-  "lastOpenFiles": []
+  "active": "1a402fdbd198738e",
+  "lastOpenFiles": [
+    "Spring 2023/Finance for engineers 2023-spring/imgs/utilityfunc.png",
+    "Spring 2023/Finance for engineers 2023-spring/Lecture 2 - Fundamentals.md",
+    "Spring 2023/Chemistry/Arbeid.md",
+    "Ideas.md",
+    "Project ideas.md",
+    "Budsjett.md",
+    "Test.md"
+  ]
 }
